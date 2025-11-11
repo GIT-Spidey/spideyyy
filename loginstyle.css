@@ -147,7 +147,7 @@ input:not(:placeholder-shown) {
 }
 
 .fb-icon {
-  color: #385185;
+  color: #1877F2;
   font-size: 1rem;
   padding-right: 1px;
 }
@@ -193,4 +193,5 @@ p{
 .apps{
   align-items: center;
   text-align: center;
+
 }
